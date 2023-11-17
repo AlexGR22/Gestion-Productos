@@ -35,4 +35,5 @@ Este repositorio contiene el esqueleto de una aplicación de React. Tu tarea ser
 6. **Subir código a la UVE**:
    Comprimir los archivos del proyecto y subirlo como entrega de la actividad.
 
-
+***Se creo un nueva api para que pueda consumir correctamente los datos de categorias y puedan ser funcionales tanto para editar o eliminar
+https://backend-test-virid.vercel.app/api/categorias
